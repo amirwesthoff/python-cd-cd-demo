@@ -1,3 +1,3 @@
 # python-ci-cd-demo
 
-![CI](https://github.com/your-username/python-ci-cd-demo/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/amirwesthoff/python-ci-cd-demo/actions/workflows/ci.yml/badge.svg)
