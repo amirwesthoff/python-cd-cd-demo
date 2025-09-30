@@ -1,1 +1,1 @@
-# python-cd-cd-demo
+# python-ci-cd-demo
